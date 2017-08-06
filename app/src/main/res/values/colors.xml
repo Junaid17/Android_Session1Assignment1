@@ -14,4 +14,13 @@
     <color name="colorVoilet">#9400D3</color>
     <color name="colorWhite">#FFFFFF</color>
     <color name="colorBlack">#000000</color>
+
+
+
+
+    <color name="bg_login">#26ae90</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="btn_login_bg">#eceef1</color>
+
 </resources>
