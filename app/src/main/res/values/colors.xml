@@ -13,4 +13,5 @@
     <color name="colorIndigo">#4B0082</color>
     <color name="colorVoilet">#9400D3</color>
     <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
 </resources>
